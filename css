@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#warn {
+  position: absolute;
+  font-family: Impact;
+  font-size: 100px;
+  color: red;
+  margin-top: 20%;
+  margin-bottom: 30%;
+  text-shadow: 2px 2px 5px white;
+}
+
+.ghost {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 100%;
+}
+
+h1 {
+  color: white;
+}
